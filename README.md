@@ -23,20 +23,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto que cria imagens hiper-realistas de atletas usando IA Generativa e desafia o público a identificar quais são reais e quais são artificiais. Uma combinação de tecnologia e percepção humana!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **DALL-E 3** para criação de imagens
+- **Deep Seek** para criação da idéia e detalhes
+- **Microsoft Designer** para edições
+- **Google Forms** para criar o quiz interativo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+**Pesquisa de Referências**: Coletar fotos reais de atletas
+**Engenharia de Prompts**: Desenvolver prompts detalhados como:
+   *"Atleta profissional masculino, musculatura definida, iluminação de competição, suor na pele, fundo de palco de evento esportivo, ultra realista 8K"*
+**Curadoria Mista**: Misturar 3 imagens reais com 3 IA numa pasta
+**Montagem do Quiz**: Criar teste online com timer de 10 segundos por imagem
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- **Galeria de Imagens**: [Google Drive](https://drive.google.com/drive/folders/10gqKnrPkUJFsSNcNMqoDpsbz6oTjDf_n)
+- **Quiz Interativo**: [Participe do Desafio Aqui](https://docs.google.com/forms/d/e/1FAIpQLSe_17aajQZt2xYnWZBjxRkk0-UDGdkAs_o7snT9kdqoGUk1ZA/viewform?usp=header)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A criação de corpos "naturais" com IA revelou desafios intrigantes:
+- **Hiperrealismo Paradoxal**: Músculos perfeitos demais se tornam suspeitos
+- **Sutilezas Humanas**: Cicatrizes, assimetrias e imperfeições foram cruciais para o realismo
+- **Ética do Corpo**: Como essas tecnologias podem impactar a autoimagem e padrões estéticos?
 
 ### Exemplos e Insigths
 
